@@ -2,7 +2,10 @@
 
 ![Profile Banner](https://img.shields.io/badge/Experience-15%2B%20Years-blue)
 ![Email](https://img.shields.io/badge/Email-narendra.vicharapu@gmail.com-blue)
-![Phone](https://img.shields.io/badge/Phone-+91-9000076799-blue)
+
+
+**Phone:** +91-9000076799
+
 
 ---
 
@@ -25,16 +28,35 @@ Currently, I work at **Coforge Technology Solutions, Hyderabad** as an Automatio
 
 ## 💻 Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | PHP |
-| **Frontend** | HTML, CSS, JavaScript, jQuery, AJAX |
-| **JS Frameworks** | ReactJS, NodeJS |
-| **Backend Frameworks** | CodeIgniter, Symfony |
-| **Databases** | MySQL |
-| **Automation Tools** | TestComplete, Appium |
-| **CMS & Open Source Apps** | Drupal, PG Realty, CRE, OS Commerce, Gencart |
-| **Operating Systems** | Windows 9x/NT/2000/XP |
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005A9C?style=for-the-badge&logo=ajax&logoColor=white)
+
+### JS Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Backend Frameworks
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD0031?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Automation Tools
+![TestComplete](https://img.shields.io/badge/TestComplete-FF6C37?style=for-the-badge)
+![Appium](https://img.shields.io/badge/Appium-3B99FC?style=for-the-badge&logo=appium&logoColor=white)
+
+### CMS & Open Source Apps
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![OSCommerce](https://img.shields.io/badge/OSCommerce-339933?style=for-the-badge)
+![Gencart](https://img.shields.io/badge/Gencart-FF6600?style=for-the-badge)
 
 ---
 
@@ -63,11 +85,6 @@ Currently, I work at **Coforge Technology Solutions, Hyderabad** as an Automatio
 - **Tech:** Symfony, PHP, MySQL, HTML, jQuery  
 - **Description:** HRMS module for goal sheets and performance appraisal tracking.  
 - **Responsibilities:** Project creation, dashboard, unit testing.
-
-### CBX Retail
-- **Role:** Team Player  
-- **Tech:** CSS, HTML, jQuery Mobile  
-- **Description:** Mobile-first responsive application for multiple devices.  
 
 *(Additional projects can be listed similarly if needed.)*
 
@@ -108,6 +125,3 @@ Currently, I work at **Coforge Technology Solutions, Hyderabad** as an Automatio
 ## ⚡ Fun Fact
 
 I love exploring new technologies and automating repetitive tasks to save time and increase productivity.  
-
----
-
