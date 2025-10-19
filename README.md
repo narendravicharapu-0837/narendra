@@ -69,7 +69,7 @@ Currently, I work at **Coforge Technology Solutions, Hyderabad** as an Automatio
 - **Responsibilities:** Framework design, automation scripting, client interaction, team management.
 
 ### Cotiviti
-- **Role:** Team Lead & Automation Architect  
+- **Role:** Team Lead 
 - **Tech:** TestComplete, JS  
 - **Description:** Healthcare analytics platform for payment accuracy, risk adjustment, and quality improvement.  
 - **Responsibilities:** Automation scripting, client communication, mentoring.
